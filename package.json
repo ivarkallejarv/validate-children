@@ -1,0 +1,19 @@
+{
+  "name": "validate-children",
+  "version": "1.0.0",
+  "description": "A tool for validating React Children",
+  "author": "Ivar Kallejärv",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@types/jest": "^29.4.0",
+    "jest": "^29.4.0",
+    "prettier": "^2.8.3",
+    "react": "^18.2.0",
+    "react-is": "^18.2.0",
+    "react-test-renderer": "^18.2.0"
+  }
+}
